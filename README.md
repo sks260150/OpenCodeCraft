@@ -88,48 +88,48 @@ A comprehensive, hands-on program designed for school students (Class 8th-12th) 
 
 **Introduction to Machine Learning**
 
-1. **Workshop 1: Introduction to Machine Learning**
-   - **Concepts Covered:** What is Machine Learning? Applications of Machine Learning. Supervised vs. Unsupervised Learning.
-   - **Hands-on:** Examples like image recognition, product recommendations.
+**Workshop 1: Introduction to Machine Learning**
+  - **Concepts Covered:** What is Machine Learning? Applications of Machine Learning. Supervised vs. Unsupervised Learning.
+  - **Hands-on:** Examples like image recognition, product recommendations.
 
-2. **Workshop 2: Python for ML Basics**
-   - **Concepts Covered:** Python basics (variables, loops, functions). Introduction to libraries: NumPy, Pandas, and Matplotlib.
-   - **Hands-on:** Write a Python script using NumPy and Pandas to manipulate data.
+**Workshop 2: Python for ML Basics**
+  - **Concepts Covered:** Python basics (variables, loops, functions). Introduction to libraries: NumPy, Pandas, and Matplotlib.
+  - **Hands-on:** Write a Python script using NumPy and Pandas to manipulate data.
 
-3. **Workshop 3: Data Preprocessing for ML**
-   - **Concepts Covered:** Data cleaning, handling missing data, normalization, splitting datasets.
-   - **Hands-on:** Load a dataset, clean it, and split it into training/testing sets using Pandas and Scikit-learn.
+**Workshop 3: Data Preprocessing for ML**
+  - **Concepts Covered:** Data cleaning, handling missing data, normalization, splitting datasets.
+  - **Hands-on:** Load a dataset, clean it, and split it into training/testing sets using Pandas and Scikit-learn.
 
-4. **Workshop 4: Building a Simple ML Model**
-   - **Concepts Covered:** Basic ML models: Linear Regression, Decision Trees. Model training, evaluation, and accuracy.
-   - **Hands-on:** Train a Linear Regression model using Scikit-learn.
+**Workshop 4: Building a Simple ML Model**
+  - **Concepts Covered:** Basic ML models: Linear Regression, Decision Trees. Model training, evaluation, and accuracy.
+  - **Hands-on:** Train a Linear Regression model using Scikit-learn.
 
-5. **Workshop 5: Visualization and Model Evaluation**
-   - **Concepts Covered:** Model evaluation metrics: Accuracy, Precision, Recall. Plotting graphs with Matplotlib.
-   - **Hands-on:** Plot training vs testing accuracy, visualize model predictions.
+**Workshop 5: Visualization and Model Evaluation**
+  - **Concepts Covered:** Model evaluation metrics: Accuracy, Precision, Recall. Plotting graphs with Matplotlib.
+  - **Hands-on:** Plot training vs testing accuracy, visualize model predictions.
 
 ---
 
 **RAG Pipelines and LLM Chatbots**
 
-1. **Workshop 6: Introduction to Language Models and Chatbots**
-   - **Concepts Covered:** NLP, chatbots, and LLMs overview.
-   - **Hands-on:** Demo of an existing chatbot.
+**Workshop 6: Introduction to Language Models and Chatbots**
+  - **Concepts Covered:** NLP, chatbots, and LLMs overview.
+  - **Hands-on:** Demo of an existing chatbot.
 
-2. **Workshop 7: Introduction to Retrieval-Augmented Generation (RAG)**
-   - **Concepts Covered:** RAG and its enhancement of chatbot capabilities. Overview of retrieval systems and generation models.
-   - **Hands-on:** Build a simple document retrieval system using Python.
+**Workshop 7: Introduction to Retrieval-Augmented Generation (RAG)**
+  - **Concepts Covered:** RAG and its enhancement of chatbot capabilities. Overview of retrieval systems and generation models.
+  - **Hands-on:** Build a simple document retrieval system using Python.
 
-3. **Workshop 8: Building a Simple RAG Pipeline**
-   - **Concepts Covered:** Setting up the RAG pipeline using Hugging Face models.
-   - **Hands-on:** Train a basic RAG pipeline on a custom dataset.
+**Workshop 8: Building a Simple RAG Pipeline**
+  - **Concepts Covered:** Setting up the RAG pipeline using Hugging Face models.
+  - **Hands-on:** Train a basic RAG pipeline on a custom dataset.
 
-4. **Workshop 9: Creating a Basic LLM Chatbot**
-   - **Concepts Covered:** Using a pre-trained language model to build a chatbot. Integrating RAG for contextual responses.
-   - **Hands-on:** Build and test a chatbot that answers questions based on the RAG pipeline.
+**Workshop 9: Creating a Basic LLM Chatbot**
+  - **Concepts Covered:** Using a pre-trained language model to build a chatbot. Integrating RAG for contextual responses.
+  - **Hands-on:** Build and test a chatbot that answers questions based on the RAG pipeline.
 
-5. **Workshop 10: Project Showcase**
-   - **Hands-on:** Students showcase their chatbot project. Open Q&A session for troubleshooting.
+**Workshop 10: Project Showcase**
+  - **Hands-on:** Students showcase their chatbot project. Open Q&A session for troubleshooting.
 
 
 ---
@@ -217,7 +217,6 @@ A comprehensive, hands-on program designed for school students (Class 8th-12th) 
   - Guest speaker session from industry professionals.
   - Group discussion on interests and future learning paths.
 
----
 ---
 ### **Open CodeCraft Program Structure**
 
